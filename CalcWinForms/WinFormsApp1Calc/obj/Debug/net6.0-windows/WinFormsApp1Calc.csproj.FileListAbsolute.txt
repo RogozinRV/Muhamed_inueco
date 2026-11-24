@@ -1,0 +1,17 @@
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\bin\Debug\net6.0-windows\WinFormsApp1Calc.exe
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\bin\Debug\net6.0-windows\WinFormsApp1Calc.deps.json
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\bin\Debug\net6.0-windows\WinFormsApp1Calc.runtimeconfig.json
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\bin\Debug\net6.0-windows\WinFormsApp1Calc.dll
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\bin\Debug\net6.0-windows\WinFormsApp1Calc.pdb
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.csproj.AssemblyReference.cache
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.Form1.resources
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.csproj.GenerateResource.cache
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.AssemblyInfoInputs.cache
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.AssemblyInfo.cs
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.csproj.CoreCompileInputs.cache
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.dll
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\refint\WinFormsApp1Calc.dll
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.pdb
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\WinFormsApp1Calc.genruntimeconfig.cache
+C:\Users\24300456\source\repos\WinFormsApp1Calc\WinFormsApp1Calc\obj\Debug\net6.0-windows\ref\WinFormsApp1Calc.dll
